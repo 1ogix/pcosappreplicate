@@ -1,0 +1,569 @@
+{
+  "totalSteps": 22,
+  "gender": "female",
+  "steps": [
+    {
+      "id": 0,
+      "type": "single-select",
+      "question": "Feel like nothing works for your PCOS?",
+      "subtitle": "Let's find out what YOUR body actually needs.",
+      "cta": "Get your personalized PCOS reset in 3 minutes.",
+      "trustSignal": "Trusted by 28,000+ women",
+      "rating": "4.8 ★ average rating",
+      "options": [
+        { "emoji": "🌸", "label": "18-27", "value": "18-27" },
+        { "emoji": "🌺", "label": "27-40", "value": "27-40" },
+        { "emoji": "🌻", "label": "41-50", "value": "41-50" },
+        { "emoji": "🌷", "label": "50+", "value": "50+" }
+      ],
+      "autoAdvance": true,
+      "showProgress": false
+    },
+    {
+      "id": 1,
+      "type": "multi-select",
+      "question": "Many women with PCOS experience some of the following. Which feel familiar to you?",
+      "options": [
+        {
+          "emoji": "🔴",
+          "label": "Missed or irregular menstrual cycles",
+          "value": "irregular-cycles"
+        },
+        {
+          "emoji": "📈",
+          "label": "Unexplained weight gain",
+          "value": "weight-gain"
+        },
+        {
+          "emoji": "🫧",
+          "label": "Oily skin or acne breakouts",
+          "value": "acne"
+        },
+        {
+          "emoji": "💇‍♀️",
+          "label": "Hair thinning or increased hair shedding",
+          "value": "hair-thinning"
+        },
+        {
+          "emoji": "💤",
+          "label": "Ongoing tiredness or low energy",
+          "value": "fatigue"
+        },
+        {
+          "emoji": "🌪️",
+          "label": "Emotional ups and downs",
+          "value": "mood-swings"
+        },
+        {
+          "emoji": "🧱",
+          "label": "Trouble losing weight",
+          "value": "weight-loss-resistance"
+        },
+        {
+          "emoji": "🧁",
+          "label": "Frequent cravings for sweets",
+          "value": "sweet-cravings"
+        }
+      ],
+      "buttonText": "Continue",
+      "showProgress": true
+    },
+    {
+      "id": 2,
+      "type": "single-select",
+      "question": "How predictable does your cycle feel to you?",
+      "options": [
+        {
+          "emoji": "😰",
+          "label": "I rarely experience a period",
+          "value": "rarely"
+        },
+        {
+          "emoji": "🌧️",
+          "label": "My cycle is highly irregular",
+          "value": "irregular"
+        },
+        {
+          "emoji": "⛅",
+          "label": "Fairly regular, but not always predictable",
+          "value": "fairly-regular"
+        },
+        { "emoji": "☀️", "label": "Very consistent", "value": "consistent" }
+      ],
+      "autoAdvance": true,
+      "showProgress": true
+    },
+    {
+      "id": 3,
+      "type": "single-select",
+      "question": "Do you often feel stressed, anxious, or emotionally overwhelmed?",
+      "options": [
+        { "emoji": "🌪️", "label": "Yes, quite often", "value": "yes-often" },
+        {
+          "emoji": "🍃",
+          "label": "Sometimes, but I usually cope well",
+          "value": "sometimes"
+        },
+        { "emoji": "✨", "label": "Rarely", "value": "rarely" }
+      ],
+      "autoAdvance": true,
+      "showProgress": true
+    },
+    {
+      "id": 4,
+      "type": "single-select",
+      "question": "Have you tried to lose weight — only to feel like your body won't respond?",
+      "options": [
+        {
+          "emoji": "😔",
+          "label": "Yes, results never seem to come",
+          "value": "no-results"
+        },
+        {
+          "emoji": "📉",
+          "label": "I lose some weight, but it doesn't last",
+          "value": "doesnt-last"
+        },
+        {
+          "emoji": "🌱",
+          "label": "I haven't seriously attempted yet",
+          "value": "not-tried"
+        }
+      ],
+      "autoAdvance": true,
+      "showProgress": true
+    },
+    {
+      "id": 5,
+      "type": "single-select",
+      "question": "How would you rate your typical daily energy?",
+      "options": [
+        {
+          "emoji": "🥱",
+          "label": "Frequently drained, even after rest",
+          "value": "drained"
+        },
+        {
+          "emoji": "📉",
+          "label": "I experience noticeable afternoon fatigue",
+          "value": "afternoon-fatigue"
+        },
+        {
+          "emoji": "🌊",
+          "label": "My energy varies depending on the day",
+          "value": "varies"
+        },
+        {
+          "emoji": "☀️",
+          "label": "My energy is generally steady",
+          "value": "steady"
+        }
+      ],
+      "autoAdvance": true,
+      "showProgress": true
+    },
+    {
+      "id": 6,
+      "type": "interstitial",
+      "title": "Take Back Control of Your PCOS Health",
+      "body": "Your symptoms may not be a willpower issue — they often reflect how PCOS affects metabolism, appetite signals, and energy regulation.",
+      "bullets": [
+        "Support hormone-driven appetite balance",
+        "Reduce biological resistance to weight loss",
+        "Stabilize energy fluctuations",
+        "Create sustainable progress without extreme restriction"
+      ],
+      "footer": "Most women begin noticing measurable symptom improvements within weeks.",
+      "image": "/images/interstitial/interstitial-motivation-1.png",
+      "buttonText": "Continue",
+      "showProgress": true
+    },
+    {
+      "id": 7,
+      "type": "multi-select",
+      "question": "What would you like to achieve?",
+      "options": [
+        {
+          "emoji": "📉",
+          "label": "Lose excess weight",
+          "value": "lose-weight"
+        },
+        {
+          "emoji": "👟",
+          "label": "Improve overall fitness",
+          "value": "fitness"
+        },
+        {
+          "emoji": "⚡",
+          "label": "Support a faster metabolism",
+          "value": "metabolism"
+        },
+        { "emoji": "🌟", "label": "Increase daily energy", "value": "energy" },
+        {
+          "emoji": "🧘‍♀️",
+          "label": "Maintain a more stable mood",
+          "value": "mood"
+        },
+        {
+          "emoji": "⚖️",
+          "label": "Support hormonal harmony",
+          "value": "hormones"
+        },
+        {
+          "emoji": "🍎",
+          "label": "Reduce sugar and snack cravings",
+          "value": "cravings"
+        }
+      ],
+      "buttonText": "Continue",
+      "showProgress": true
+    },
+    {
+      "id": 8,
+      "type": "body-select",
+      "question": "Which silhouette feels closest to your current shape?",
+      "options": [
+        {
+          "label": "STANDARD",
+          "value": "standard",
+          "image": "/images/body/standard.png"
+        },
+        {
+          "label": "CURVY",
+          "value": "curvy",
+          "image": "/images/body/curvy.png"
+        },
+        { "label": "PLUS", "value": "plus", "image": "/images/body/plus.png" }
+      ],
+      "autoAdvance": true,
+      "showProgress": true
+    },
+    {
+      "id": 9,
+      "type": "interstitial",
+      "title": "Understanding Your PCOS Pattern",
+      "body": "PCOS doesn't just affect cycles. It can influence how your body responds to food, stress, sleep, and activity.",
+      "bullets": [
+        "Cravings feel stronger",
+        "Energy fluctuates more",
+        "Weight responds differently than expected"
+      ],
+      "footer": "PCOS Reset Method is powered by AI technology trained on evidence-based lifestyle frameworks and clinical PCOS guidance — allowing your plan to adapt to your specific symptom pattern and preferences.",
+      "image": "/images/interstitial/interstitial-transformation.png",
+      "buttonText": "Continue",
+      "showProgress": true
+    },
+    {
+      "id": 10,
+      "type": "input-height",
+      "question": "What is your height?",
+      "units": ["cm", "ft"],
+      "defaultUnit": "cm",
+      "buttonText": "Continue",
+      "showProgress": true
+    },
+    {
+      "id": 11,
+      "type": "input-weight",
+      "question": "What is your current weight?",
+      "subtitle": "Weight helps us calculate your BMI.",
+      "units": ["kg", "lbs"],
+      "defaultUnit": "kg",
+      "buttonText": "Continue",
+      "showProgress": true
+    },
+    {
+      "id": 12,
+      "type": "input-weight",
+      "question": "What is your desired weight?",
+      "units": ["kg", "lbs"],
+      "defaultUnit": "kg",
+      "buttonText": "Continue",
+      "showProgress": true
+    },
+    {
+      "id": 13,
+      "type": "input-age",
+      "question": "What is your age?",
+      "buttonText": "Continue",
+      "showProgress": true
+    },
+    {
+      "id": 14,
+      "type": "interstitial-personalized",
+      "titleTemplate": "Stay on Track with Healthy Habits",
+      "bodyTemplate": "Women at age {age}, a gentle reminder: building consistent daily habits that help you reach and maintain a weight around {goalWeight}kg can accelerate your progress toward a stronger, healthier body.",
+      "image": "/images/interstitial/after-25-35.png",
+      "buttonText": "Continue",
+      "showProgress": true
+    },
+    {
+      "id": 15,
+      "type": "single-select",
+      "question": "What does your typical day look like?",
+      "options": [
+        { "emoji": "💻", "label": "Mostly seated work", "value": "seated" },
+        { "emoji": "👟", "label": "Frequently on the move", "value": "moving" },
+        {
+          "emoji": "💪",
+          "label": "Regularly exercising or training",
+          "value": "exercising"
+        },
+        {
+          "emoji": "🏠",
+          "label": "Mostly at home or low-activity routine",
+          "value": "home"
+        }
+      ],
+      "autoAdvance": true,
+      "showProgress": true
+    },
+    {
+      "id": 16,
+      "type": "single-select",
+      "question": "Do you enjoy physical activity?",
+      "subtitle": "Regular movement can help accelerate your progress.",
+      "options": [
+        { "emoji": "🛋️", "label": "Not really", "value": "not-really" },
+        {
+          "emoji": "👟",
+          "label": "Not much, but I try to stay somewhat active",
+          "value": "try"
+        },
+        {
+          "emoji": "🚶‍♀️",
+          "label": "Yes, from time to time",
+          "value": "sometimes"
+        },
+        {
+          "emoji": "💪",
+          "label": "Yes, I exercise consistently",
+          "value": "consistently"
+        }
+      ],
+      "autoAdvance": true,
+      "showProgress": true
+    },
+    {
+      "id": 17,
+      "type": "single-select",
+      "question": "How much water do you usually drink per day?",
+      "subtitle": "We mean plain water, not including coffee, tea, or other beverages.",
+      "options": [
+        {
+          "emoji": "☕",
+          "label": "Mostly coffee or tea",
+          "value": "coffee-tea"
+        },
+        {
+          "emoji": "💧",
+          "label": "Under 500ml (fewer than 2 glasses)",
+          "value": "under-500"
+        },
+        {
+          "emoji": "🥤",
+          "label": "0.5L – 1.5L (about 2–6 glasses)",
+          "value": "0.5-1.5"
+        },
+        {
+          "emoji": "🚰",
+          "label": "1.7L – 2.5L (around 7–10 glasses)",
+          "value": "1.7-2.5"
+        },
+        {
+          "emoji": "🌊",
+          "label": "I don't track it, it varies daily",
+          "value": "varies"
+        }
+      ],
+      "autoAdvance": true,
+      "showProgress": true
+    },
+    {
+      "id": 18,
+      "type": "multi-select",
+      "question": "Which of the following habits apply to you? (Select all that fit)",
+      "options": [
+        {
+          "emoji": "🌃",
+          "label": "I tend to eat late in the evening",
+          "value": "late-eating"
+        },
+        {
+          "emoji": "🧁",
+          "label": "I often crave sugary snacks or desserts",
+          "value": "sugar-cravings"
+        },
+        {
+          "emoji": "🥤",
+          "label": "I frequently drink soda or sweetened beverages",
+          "value": "soda"
+        },
+        {
+          "emoji": "🍷",
+          "label": "I occasionally drink alcoholic beverages",
+          "value": "alcohol"
+        },
+        {
+          "emoji": "🥨",
+          "label": "I often choose high-fat or salty foods",
+          "value": "fatty-salty"
+        },
+        { "emoji": "✅", "label": "None of these apply", "value": "none" }
+      ],
+      "buttonText": "Continue",
+      "showProgress": true
+    },
+    {
+      "id": 19,
+      "type": "category-select",
+      "question": "Which areas should your personalized plan focus on most?",
+      "instruction": "Select everything",
+      "categories": [
+        {
+          "emoji": "🌸",
+          "label": "Symptoms & Body Signals",
+          "value": "symptoms",
+          "items": [
+            "Weight loss resistance",
+            "Constant fatigue/low energy",
+            "Strong sugar cravings",
+            "Brain fog",
+            "Bloating after meals",
+            "Irregular cycles",
+            "Skin breakouts/acne",
+            "Hair thinning or excess hair",
+            "Mood swings",
+            "Poor sleep"
+          ]
+        },
+        {
+          "emoji": "⚡",
+          "label": "Energy & Metabolism Support",
+          "value": "energy-metabolism",
+          "items": [
+            "Reduce afternoon energy crashes",
+            "Stabilize blood sugar",
+            "Improve morning energy",
+            "Reduce carb cravings",
+            "Improve sleep quality",
+            "Improve digestion",
+            "Reduce inflammation",
+            "Build sustainable habits"
+          ]
+        },
+        {
+          "emoji": "🥗",
+          "label": "Nutrition Coaching Style",
+          "value": "nutrition",
+          "items": [
+            "Simple meal structure guidance",
+            "Portion guidance (no calorie counting)",
+            "Grocery planning support",
+            "Eating out guidance",
+            "Snack & craving strategies",
+            "PCOS-friendly recipes",
+            "Meal timing guidance"
+          ]
+        },
+        {
+          "emoji": "💪",
+          "label": "Movement & Activity Coaching",
+          "value": "movement",
+          "items": [
+            "Gentle movement routines",
+            "Strength training guidance",
+            "Walking & daily activity",
+            "Low-energy workout options",
+            "Gym confidence guidance",
+            "Building consistency with exercise"
+          ]
+        },
+        {
+          "emoji": "🧘‍♀️",
+          "label": "Habit & Mindset Coaching",
+          "value": "mindset",
+          "items": [
+            "Accountability & reminders",
+            "Motivation & consistency",
+            "Stress management",
+            "Emotional eating support",
+            "Building routines",
+            "Reducing overwhelm",
+            "Staying consistent long-term"
+          ]
+        },
+        {
+          "emoji": "🏠",
+          "label": "Personalization & Lifestyle",
+          "value": "lifestyle",
+          "items": [
+            "Busy schedule/limited time",
+            "Family-friendly meals",
+            "Budget-friendly options",
+            "Quick & simple recipes",
+            "Flexible (not restrictive) approach",
+            "Step-by-step daily guidance"
+          ]
+        }
+      ],
+      "buttonText": "Continue",
+      "showProgress": true
+    },
+    {
+      "id": 20,
+      "type": "research-screen",
+      "title": "The research behind your personalized health plan",
+      "subtitle": "Our recommendations are informed by trusted global and clinical health sources:",
+      "sources": [
+        {
+          "name": "World Health Organization",
+          "abbr": "WHO",
+          "logo": "/images/Logo/organisation-who.png"
+        },
+        {
+          "name": "PubMed",
+          "abbr": "PubMed",
+          "logo": "/images/Logo/organisation-pubmed.png"
+        },
+        {
+          "name": "The American Journal of Clinical Nutrition",
+          "abbr": "AJCN",
+          "logo": "/images/Logo/organisation-tajocn.png"
+        },
+        {
+          "name": "National Center for Biotechnology Information",
+          "abbr": "NCBI",
+          "logo": "/images/Logo/organisation-ncbi.png"
+        },
+        {
+          "name": "WebMD",
+          "abbr": "WebMD",
+          "logo": "/images/Logo/organisation-webmd.png"
+        },
+        {
+          "name": "Medscape",
+          "abbr": "Medscape",
+          "logo": "/images/Logo/organisation-medscape.png"
+        }
+      ],
+      "buttonText": "Continue",
+      "showProgress": true
+    },
+    {
+      "id": 21,
+      "type": "timeline-screen",
+      "title": "Estimated Timeline With PCOS Reset Method",
+      "comparison": "Typical weight-loss journey",
+      "buttonText": "Continue",
+      "showProgress": true
+    },
+    {
+      "id": 22,
+      "type": "results-screen",
+      "title": "Your PCOS Reset Profile",
+      "buttonText": "Continue",
+      "showProgress": true
+    }
+  ]
+}

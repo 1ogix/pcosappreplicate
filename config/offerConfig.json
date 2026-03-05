@@ -1,0 +1,63 @@
+{
+  "product": {
+    "name": "PCOS Reset Method",
+    "tagline": "Your personalized PCOS weight loss & wellness plan",
+    "description": "A fully personalized plan designed for your PCOS symptom pattern, body type, lifestyle, and goals."
+  },
+  "tiers": [
+    {
+      "id": "base",
+      "name": "Base Offer",
+      "originalPrice": 97,
+      "salePrice": 37,
+      "currency": "USD",
+      "discount": "62% OFF",
+      "ctaText": "Get My Plan Now",
+      "triggerAfter": 0
+    },
+    {
+      "id": "discount-1",
+      "name": "First Escalation",
+      "originalPrice": 97,
+      "salePrice": 27,
+      "currency": "USD",
+      "discount": "72% OFF",
+      "ctaText": "Claim My Discounted Plan",
+      "triggerAfter": 300
+    },
+    {
+      "id": "discount-2",
+      "name": "Final Offer",
+      "originalPrice": 97,
+      "salePrice": 17,
+      "currency": "USD",
+      "discount": "82% OFF",
+      "ctaText": "Yes! I Want My Plan",
+      "triggerAfter": 600
+    }
+  ],
+  "guarantee": {
+    "days": 30,
+    "text": "30-Day Money Back Guarantee"
+  },
+  "testimonials": [
+    {
+      "name": "Sarah M.",
+      "age": 29,
+      "text": "I lost 12 lbs in the first month following this plan. My cycles are finally regular!",
+      "rating": 5
+    },
+    {
+      "name": "Jessica T.",
+      "age": 34,
+      "text": "Finally something designed for PCOS! My energy is through the roof and cravings are gone.",
+      "rating": 5
+    },
+    {
+      "name": "Amanda R.",
+      "age": 27,
+      "text": "This is the only plan that actually worked for me. Down 18 lbs and feeling amazing.",
+      "rating": 5
+    }
+  ]
+}

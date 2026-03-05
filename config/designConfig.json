@@ -1,0 +1,41 @@
+{
+  "colors": {
+    "primary": "#7C3AED",
+    "primaryLight": "#EDE9FE",
+    "primaryDark": "#5B21B6",
+    "accent": "#F59E0B",
+    "background": "#FFFFFF",
+    "surface": "#F9FAFB",
+    "text": "#111827",
+    "textSecondary": "#6B7280",
+    "border": "#E5E7EB",
+    "success": "#10B981",
+    "progressBg": "#E5E7EB",
+    "progressFill": "#7C3AED"
+  },
+  "fonts": {
+    "primary": "Inter",
+    "fallback": "system-ui, -apple-system, sans-serif"
+  },
+  "borderRadius": {
+    "option": "12px",
+    "button": "12px",
+    "card": "16px",
+    "input": "12px"
+  },
+  "spacing": {
+    "containerMaxWidth": "480px",
+    "optionPadding": "16px",
+    "sectionGap": "12px"
+  },
+  "progressBar": {
+    "height": "6px",
+    "position": "top",
+    "showStepCount": true
+  },
+  "logo": {
+    "src": "/images/Logo/Logo-PCOS-icon.png",
+    "width": 40,
+    "height": 40
+  }
+}
